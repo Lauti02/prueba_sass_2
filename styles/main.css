@@ -1,0 +1,17 @@
+.container {
+  margin: 0 20px;
+}
+
+.container .titulo {
+  color: red;
+}
+
+.container .subtitulo {
+  font-size: 30px;
+}
+
+.container .texto {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}

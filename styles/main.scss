@@ -1,0 +1,18 @@
+$size: 5px;
+$color-principal: red;
+
+.container {
+  margin: 0 20px;
+
+  .titulo {
+    color: $color-principal;
+  }
+
+  .subtitulo {
+    font-size: $size * 6;
+  }
+
+  .texto {
+    display: flex;
+  }
+}
